@@ -38,9 +38,7 @@
     <string name="ps_read_ahead_boot">부팅시에 적용</string>
     <string name="pt_fast_charge_boot">빠른 충전</string>
     <string name="ps_fast_charge_boot">부팅시 빠른 충전 사용</string>
-    <string name="fast_charge_warning">"재부팅후에 PC에 연결할 수 없습니다!
-
- 이 설정은 재부팅후에 빠른 충전을 사용 설정합니다. 빠른 충전이 사용중일 경우 휴대전화는 *충전 전용* 입니다!"</string>
+    <string name="fast_charge_warning">"재부팅후에 PC에 연결할 수 없습니다! 이 설정은 재부팅후에 빠른 충전을 사용 설정합니다. 빠른 충전이 사용중일 경우 휴대전화는 *충전 전용* 입니다!"</string>
     <string name="fast_charge_notification_title">빠른 충전 사용!</string>
     <string name="fast_charge_notification_message">휴대 전화가 충전 전용 모드입니다!</string>
     <string name="size_25_mb">25mb</string>
